@@ -1,0 +1,15 @@
+com.xiaobing.oss.internal.handlers.EndpointAddressInterceptor
+com.xiaobing.oss.internal.handlers.CreateBucketInterceptor
+com.xiaobing.oss.internal.handlers.PutObjectInterceptor
+com.xiaobing.oss.internal.handlers.CreateMultipartUploadRequestInterceptor
+com.xiaobing.oss.internal.handlers.EnableChunkedEncodingInterceptor
+com.xiaobing.oss.internal.handlers.DisableDoubleUrlEncodingInterceptor
+com.xiaobing.oss.internal.handlers.DecodeUrlEncodedResponseInterceptor
+com.xiaobing.oss.internal.handlers.GetBucketPolicyInterceptor
+com.xiaobing.oss.internal.handlers.AsyncChecksumValidationInterceptor
+com.xiaobing.oss.internal.handlers.SyncChecksumValidationInterceptor
+com.xiaobing.oss.internal.handlers.EnableTrailingChecksumInterceptor
+com.xiaobing.oss.internal.handlers.ExceptionTranslationInterceptor
+com.xiaobing.oss.internal.handlers.GetObjectInterceptor
+com.xiaobing.oss.internal.handlers.CopySourceInterceptor
+com.xiaobing.oss.internal.handlers.SignerOverrideInterceptor
